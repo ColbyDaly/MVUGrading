@@ -7,6 +7,12 @@
 
 * Remove the comments column from the downloaded spreadsheet. The commas in the comments section are not compatible with a .csv file. 
 
+* Download the names with project numbers file in a .csv format and put it in the same folder as MVUProject.JAR and spreadsheet.csv
+
+* Rename the names file to names.csv
+
+* Make sure there are no commas in the names.csv file. Spaces are OK. 
+
 * Run the jar file, and results.csv will be created. 
 
 * MVUProject.jar creates a spreadsheet that shows:
